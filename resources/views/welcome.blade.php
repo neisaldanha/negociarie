@@ -50,10 +50,10 @@
         <table class="table table-hover" id="salary-table">
             <thead>
                 <tr>
-                    <th>Nome do Usuário</th>
+                <th id="sort-name" style="cursor: pointer;">Nome do Usuário</th>
                     <th>Dias Trabalhados</th>
                     <th>Horas Consumidas</th>
-                    <th id="sort-name" style="cursor: pointer;">Total (R$)</th>
+                    <th id="sort-total" style="cursor: pointer;">Total (R$)</th>
                     <th>Ações</th>
                 </tr>
             </thead>
